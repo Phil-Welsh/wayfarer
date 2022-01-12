@@ -1,5 +1,7 @@
 # Wayfarer
 
+Wayfarer is hosted live here: https://wayfarer-team-1.herokuapp.com/
+
 ## **Sprint 1: Basic Auth & Profiles**
 
 ### **User is able to:**
